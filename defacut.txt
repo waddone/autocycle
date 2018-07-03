@@ -1,0 +1,4 @@
+// de facut
+
+- la poze sa le ia random
+- lista piese vandute 
